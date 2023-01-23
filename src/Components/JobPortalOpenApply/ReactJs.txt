@@ -1,0 +1,35 @@
+                                                      
+                                                      My React Topics Plan
+                                                               
+                                        
+                                        1.        React-Intro 
+                                        2.        JSX Intro
+                                        3.        Rendering Elements
+                                        4.        Components and Props
+                                        5.        Notification
+                                        6.        Lists & Keys
+                                        7.        Technology Cards
+                                        8.        Class Components and States
+                                        9.        Conditional Rendering
+                                        10.       Light Mode and Dark Mode
+                                        11.       Login App
+                                        12.       Common mistakes
+                                        13.       Handing Events
+                                        14.       Lifting State Up
+                                        15.       Thinking in React
+                                        16.       Browser History
+                                        17.       React Routes
+                                        18.       Routing Practice
+                                        19.       Common mistakes
+                                        20.       Virtual DOM
+                                        21.       Third Party Package
+                                        22.       Prime Video
+                                        23.       React Ref
+                                        24.       Higher Order Components
+                                        25.       Context
+                                        26        Render Props
+                                        27        Reconciliation
+                                        28        React Hooks
+                                        29        Todos Application using Hooks
+                                        30.       Hooks Timer Example
+                                        31.       Hooks Traffic Light Example

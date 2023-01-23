@@ -1,11 +1,12 @@
 import React from "react";
+import JobPortalOpenApply from "./Components/JobPortalOpenApply/Index";
 
-import ToDoListTask from "./Components/ToDoListTask/Index";
+
 
 function App() {
   return (
     <div className="App">
-      <ToDoListTask />
+      <JobPortalOpenApply />
     </div>
   );
 }
